@@ -1,16 +1,4 @@
-# simpleshoppingapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Simple shopping app
+a shopping app that contains welcome screen, product screen, product details screen, checkout screen and also order screen.
+The welcoming screen
+![Screenshot (23)](https://github.com/Ahmadsaniliman/hngstageone/assets/81013656/74a0d104-0c08-4641-b2cb-58873710034f)
